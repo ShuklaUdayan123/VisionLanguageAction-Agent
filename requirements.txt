@@ -1,0 +1,6 @@
+torch
+transformers>=4.34
+accelerate
+ai2thor
+matplotlib
+regex

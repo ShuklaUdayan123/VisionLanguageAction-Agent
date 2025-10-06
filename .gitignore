@@ -1,3 +1,9 @@
+# Python environment
 vla_env/
 __pycache__/
+
+# Model files
 models/
+
+# macOS system files
+.DS_Store
